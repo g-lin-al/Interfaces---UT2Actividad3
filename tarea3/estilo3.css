@@ -1,0 +1,20 @@
+#tarjeta {
+    width: 100mm;
+    height: 55mm;
+    padding: 20px;
+    border: 10px double white;
+    background-image: url("../imagenes/fondo_tarjeta.jpg");
+    color: white;
+    background-clip: border-box;
+    background-origin: border-box;
+    border-radius: 10px;
+}
+
+#datos {
+    line-height: 30px;
+}
+
+#resumen {
+    text-align: justify;
+    word-spacing: 5px;
+}
