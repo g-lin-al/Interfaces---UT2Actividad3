@@ -1,0 +1,49 @@
+.caja {
+    min-width: 200px;
+    max-width: 200px;
+    height: 125px;
+    display: inline-block;
+    margin: 0px 75px;
+    text-align: center;
+}
+
+#num1{
+    background-color: aqua;
+    margin: auto;
+}
+
+#num2{
+    background-color: darkblue;
+}
+
+#num3{
+    background-color: brown;
+}
+
+#num4{
+    background-color: yellow;
+}
+
+#num5{
+    background-color: pink;
+}
+
+#num6{
+    background-color: green;
+}
+
+#num7{
+    background-color: purple;
+}
+
+#num8{
+    background-color: orange;
+}
+
+#num9{
+    background-color: blueviolet;
+}
+
+#num10{
+    background-color: darkgoldenrod;
+}

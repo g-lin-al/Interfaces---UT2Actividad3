@@ -1,0 +1,9 @@
+#caja {
+    width: 800px;
+    height: 450px;
+    border: 2px black solid;
+    background-image: url("./../imagenes/azuflor.png"), url("./../imagenes/fondo.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 320px, cover;
+}
